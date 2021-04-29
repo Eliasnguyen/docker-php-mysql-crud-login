@@ -20,7 +20,7 @@ CREATE TABLE IF NOT EXISTS `productos` (
 
 
 
-INSERT INTO usuarios (`Nombre`, `Password`,`Correo`) VALUES ('Carlos', 'passcarlos', 'correocarlos');
+INSERT INTO usuarios (`Nombre`, `Password`,`Correo`) VALUES ('pruebauser', '$2y$10$zlQreEebPhmMUf73453GcOdJYbimUUBcdQeyf5zeoNVJ660uQ7D/W', 'pruebauser@gmail.com');
 
 INSERT INTO productos (`Nombre`, `Precio`, `UsuarioId`) VALUES ('iPhone', 809, 1), ('iPad', 379, 1), ('MacBook Pro de 13', 1449, 1), ('MacBook Air M1', 1129, 1), ('Xiaomi Mi 11 Lite', 299.99, 1);
 
