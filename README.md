@@ -11,9 +11,6 @@ En línea de comandos:
 docker-compose up -d
 ```
 
-https://user-images.githubusercontent.com/61329277/116688356-e2413b80-a9b6-11eb-81c6-1c460935d5c6.mp4
-
-
 ## Comandos
 Una vez que lo instales, puedes utilizar los siguientes comandos:
 ```
