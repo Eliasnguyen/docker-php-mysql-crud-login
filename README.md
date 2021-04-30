@@ -2,6 +2,9 @@
 Recurso con el que puedes instalar rápidamente un ambiente de desarrollo local para comenzar un proyecto en el que haga falta un CRUD y Login con PHP y MySQL utilizando Docker. 
 Es un CRUD sencillo de productos que tienen un nombre y un precio. Para utilizarlo es necesario estar registrado y en este registro se crea un hash de las contraseñas antes de almacenarlas en la base de datos.
 
+Uploading crud-login-docker-php-mysql.mp4…
+
+
 ## Requerimientos
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
 
