@@ -7,7 +7,6 @@ Es un CRUD sencillo de productos que tienen un nombre y un precio. Para utilizar
 https://user-images.githubusercontent.com/61329277/116691535-34845b80-a9bb-11eb-8006-b03b5054215d.mp4
 
 
-
 <br /><br />
 ## Requerimientos
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
