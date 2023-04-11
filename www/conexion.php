@@ -1,8 +1,8 @@
 <?php
 $host = 'mysql'; // nombre del servicio de docker-compose .yml
-$user = 'dbuser';
-$password = 'dbpass';
-$db = 'dbname';
+$user = 'root';
+$password = '123';
+$db = 'dbName';
 
 $conexion = new mysqli($host, $user, $password, $db); // Aquí se hace la conexion
 
