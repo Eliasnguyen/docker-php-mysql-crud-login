@@ -1,5 +1,5 @@
 <?php
-$host = '127.0.0.1:3306'; // nombre del servicio de docker-compose .yml
+$host = 'localhost:3306'; // nombre del servicio de docker-compose .yml
 $user = 'root';
 $password = '123';
 $db = 'dbName';
